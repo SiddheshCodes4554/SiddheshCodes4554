@@ -123,7 +123,7 @@ Currently exploring the intersection of **Full-Stack Development, Artificial Int
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddheshCodes4554&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://ghchart.rshah.org/409ba5/SiddheshCodes4554" alt="Siddhesh's GitHub Contribution Graph" />
 
 </div>
 ---
