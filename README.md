@@ -111,11 +111,7 @@ Currently exploring the intersection of **Full-Stack Development, Artificial Int
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshCodes4554&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=SiddheshCodes4554&theme=tokyonight&hide_border=true"/>
 
@@ -127,10 +123,9 @@ Currently exploring the intersection of **Full-Stack Development, Artificial Int
 
 <div align="center">
 
-[![Siddhesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SiddheshCodes4554&theme=tokyo-night&hide_border=true)](https://github.com/SiddheshCodes4554)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddheshCodes4554&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
-
 ---
 
 ## 🌐 Connect With Me
